@@ -1,6 +1,6 @@
 {
-  "name": "Queen Anita V4",
-  "description": "A WhatsApp Bot Created By David Cyril",
+  "name": "DON V4",
+  "description": "A WhatsApp Bot Created By DON",
   "logo": "https://telegra.ph/file/f6230a0cb5b118fa01561.jpg",
   "keywords": ["bot", "WhatsApp", "JavaScript"],
   "success_url": "/",
@@ -8,7 +8,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Put your SESSION_ID here.",
-      "value": ""
+      "value": "{"noiseKey":{"private":{"type":"Buffer","data":"MBhtxN1GY9XZmPOpXO+oQFLMEIHz02quvyTm1QPN61A="},"public":{"type":"Buffer","data":"lctC+bfglxtDcp+ioKrDOi0jn225+k4R744Qg+8tXms="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"2KdPn3Mw5pNrcULQnTpU3XV89CLC4r7itFBmg97gUlk="},"public":{"type":"Buffer","data":"qjVsQQrhtUr4ai9yIUK5fkM0r3k7EM0sZu/BHCNP0hw="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"2Equu177u5A/4I3VJq/n21lgY7aIPfSRLd9lwtOLI0I="},"public":{"type":"Buffer","data":"UleomM3FMYgSvHK3OZb3paizYAyxj3AycReUDpeF9TQ="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"aJe49nwnN5iztmyKHP3TUD6+xlFXUeCXo2iHRIdgTmw="},"public":{"type":"Buffer","data":"RVgaDsHVwH/5sNrkfWBHaq1RFYFRlbHZeJzb9CJuQ0Q="}},"signature":{"type":"Buffer","data":"qC5wprXRf0i7//xWNCdcXibqKrGB7KEpeORRAL7xMLwjJ5KGNrDn60d4QuFcdZkt1Hwr0om93dPsmmNuXDBViw=="},"keyId":1},"registrationId":147,"advSecretKey":"2onlB1AhOVOruzxzZmT6ooZQq4vcs4vedkWtEqhvUqM=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"deviceId":"I7T5IcncQh-WM725yeybOQ","phoneId":"7015e621-8665-438f-8434-56a9cabd4356","identityId":{"type":"Buffer","data":"ijvBfT/UqbcnAgnwWFq81gjr8us="},"registered":false,"backupToken":{"type":"Buffer","data":"viG1ve9cWEB8Atzrq9Zes19fRrU="},"registration":{},"account":{"details":"CJiBxNoEEO/1wsQGGAwgACgA","accountSignatureKey":"ljq/7EMItl2y3YOktmIeedGj4t2zocamKw/8m98pjVg=","accountSignature":"cIysRuA8TWtnEY4c+pKE+dYEQPTvmR1yFIe6fsKRshZx88oX2rG5rR7VjRVfzFBqht4tlNKqVrNA7khac0wjCA==","deviceSignature":"XpvuzLcR47F6C7f+b9ngib5Z+SlXbRiXI85y9pZYO5JYpi2lG3opqageuiBMVLPfLR9DkswQcXfG9ugvyHAvgw=="},"me":{"id":"263775614627:13@s.whatsapp.net","lid":"234454178091091:13@lid"},"signalIdentities":[{"identifier":{"name":"263775614627:13@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BZY6v+xDCLZdst2DpLZiHnnRo+Lds6HGpisP/JvfKY1Y"}}],"platform":"android","routingInfo":{"type":"Buffer","data":"CAgIDQ=="},"lastAccountSyncTimestamp":1754315520,"lastPropHash":"2G4Amu"}"
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. You can set `all | . | .!*`",
